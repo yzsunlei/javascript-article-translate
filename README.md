@@ -18,4 +18,4 @@
 
 ## 翻译文章汇总
 
-- [[译]9个可以让你在2020年成为前端专家的项目](./2019/01.%5B译%5D9个可以让你在2020年成为前端专家的项目.md)([9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h))
+- [9个可以让你在2020年成为前端专家的项目](./2019/01.9个可以让你在2020年成为前端专家的项目.md)([9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h))
