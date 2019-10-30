@@ -19,3 +19,5 @@
 ## 翻译文章汇总
 
 - [9个可以让你在2020年成为前端专家的项目](./2019/01.9个可以让你在2020年成为前端专家的项目.md)([9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h))
+
+- [预加载响应式图像，从Chrome 73开始实现](./2019/02.%5B译%5D预加载响应式图像，从Chrome%2073开始实现.md)([https://web.dev/preload-responsive-images/](https://web.dev/preload-responsive-images/))
