@@ -18,6 +18,8 @@
 
 ## 翻译文章汇总
 
-- [9个可以让你在2020年成为前端专家的项目](./2019/01.9个可以让你在2020年成为前端专家的项目.md)([9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h))
+- 2019-10-31：[您应该知道的13个有用的JavaScript数组技巧](./2019/03.%5B译%5D您应该知道的13个有用的JavaScript数组技巧.md)([https://dev.to/duomly/13-useful-javascript-array-tips-and-tricks-you-should-know-2jfo](https://dev.to/duomly/13-useful-javascript-array-tips-and-tricks-you-should-know-2jfo))
 
-- [预加载响应式图像，从Chrome 73开始实现](./2019/02.%5B译%5D预加载响应式图像，从Chrome%2073开始实现.md)([https://web.dev/preload-responsive-images/](https://web.dev/preload-responsive-images/))
+- 2019-10-30：[预加载响应式图像，从Chrome 73开始实现](./2019/02.%5B译%5D预加载响应式图像，从Chrome%2073开始实现.md)([https://web.dev/preload-responsive-images/](https://web.dev/preload-responsive-images/))
+
+- 2019-10-28：[9个可以让你在2020年成为前端专家的项目](./2019/01.9个可以让你在2020年成为前端专家的项目.md)([9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h))
