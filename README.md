@@ -22,7 +22,7 @@
 
 - 2019-01-05：[]([https://web.dev/off-main-thread/](https://web.dev/off-main-thread/))
 
-- 2020-01-04：[]([https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/))
+- 2020-01-04：[Web网页内容是如何影响电池功耗的](./2020/05.%5B译%5DWeb网页内容是如何影响电池功耗的.md)([https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/))
 
 - 2019-12-30：[使用Nuxt生成静态网站](./2020/04.%5B译%5D使用Nuxt生成静态网站.md)([https://dev.to/aumayeung/generate-static-websites-with-nuxt-1ia1](https://dev.to/aumayeung/generate-static-websites-with-nuxt-1ia1))
 
